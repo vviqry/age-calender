@@ -10,7 +10,7 @@ function Home() {
   return (
     <div
       className="min-h-screen bg-cover bg-center bg-fixed px-4 py-12 md:py-20"
-      style={{ backgroundImage: "url('https://wallpapers.com/images/featured-full/digital-art-background-98hwar6swibxmlqv.jpg')" }}
+      style={{ backgroundImage: "url('/bg.jpeg')" }}
     >
       {/* Dark overlay for readability */}
       <div className="fixed inset-0 bg-black/30 -z-10" />
